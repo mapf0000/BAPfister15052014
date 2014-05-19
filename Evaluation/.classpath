@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/mahout-core-0.8.jar"/>
+	<classpathentry kind="lib" path="lib/mahout-core-0.8-job.jar"/>
+	<classpathentry kind="lib" path="lib/mahout-examples-0.8.jar"/>
+	<classpathentry kind="lib" path="lib/mahout-examples-0.8-job.jar"/>
+	<classpathentry kind="lib" path="lib/mahout-integration-0.8.jar"/>
+	<classpathentry kind="lib" path="lib/mahout-math-0.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
